@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://balandin.micro.blog/2021/12/17/prolevel-macos.html",
+				
+				"content_html": "<p><a href=\"https://apps.apple.com/ru/app/prolevel/id526304550?mt=12\">ProLevel</a>. Шикарный и полностью настраиваемый индикатор уровней звука для MacOS. Долго искал такую штуку и вот наконец нашёл.</p>\n",
+				"content_text": "[ProLevel](https://apps.apple.com/ru/app/prolevel/id526304550?mt=12). Шикарный и полностью настраиваемый индикатор уровней звука для MacOS. Долго искал такую штуку и вот наконец нашёл.\n",
+				"date_published": "2021-12-17T00:23:16+07:00",
+				"url": "https://balandin.blog/2021/12/17/prolevel-macos.html",
+				"tags": ["Software"]
+			},
+			{
 				"id": "http://balandin.micro.blog/2021/12/08/when-your-iphone.html",
 				"title": "When your iPhone or iPad constantly lost connection to Mac",
 				"content_html": "<p>When you connect your iPhone/iPad to you Mac with cable and it tends to lost connection every few seconds (constantly connects/disconnects which is VERY annoying). Just open terminal on Mac and enter exactly the following:</p>\n\n<p><strong>sudo killall -STOP -c usbd;</strong></p>\n\n<p>Then enter your password. Don’t worry, it just restarts the USB daemon process.</p>\n",
